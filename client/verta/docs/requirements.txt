@@ -3,3 +3,4 @@ sphinx_copybutton
 
 click
 sphinx-click==4.3.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
